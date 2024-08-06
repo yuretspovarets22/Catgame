@@ -14,7 +14,7 @@ def play_cat_game():
   print("You have 5 guesses.")
 
   while guesses < 5:
-    guess = input("Where is the cat? ")
+    guess = input("Where is the fckn cat? ")
     guesses += 1
 
     if guess == cat_location:
